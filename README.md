@@ -1,2 +1,2 @@
 # ICCBootcamp
-Repo for bootcamp
+Repo for ICC bootcamp
